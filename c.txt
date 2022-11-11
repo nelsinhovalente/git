@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Qualquer coisa também
+=======
+Qualquer coisa 1
+>>>>>>> teste1
